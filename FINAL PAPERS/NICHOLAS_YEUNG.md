@@ -55,7 +55,9 @@ Building an EV is a complicated endeavor and to do so with an entirely voluntary
 
 # References
 Cotton, B. (2022). Program management for open source projects: How to guide your community-driven, open source project. The Pragmatic Programmers LLC.
+
 Github. (2025, May 1). Building welcoming communities. Open Source Guides. Retrieved May 15, 2025, from https://opensource.guide/building-community/
+
 Mozilla. (n.d.). Working open basics | 'Working open' project guide. 'Working Open' Project Guide · GitHub Pages. https://mozillascience.github.io/open-science-leadership-workshop/
 
 
