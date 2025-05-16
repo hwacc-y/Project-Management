@@ -34,3 +34,17 @@ This is the stage where every team works to bring their vision of the car to rea
 
 ## Phase 4: Finalization and Tuning (Months 6+).
 This is the phase where the EV goes from a drivable prototype to resembling mostly to the designs agreed in Phase 2. This is also the stage where unlying problems may be discovered in the process of refinement where every subsystem is scrutinized and design flaws are ironed out.
+
+# Community and Values
+A big part of this project is a sense of community as it is a large hands-on project. However due to the distributed nature of the team this can result in the team feeling disconnected at times. Although having more social events where team members can interact with each other may slightly alleviate this issue, this may not always establish a sense of community as it may feel intimidating to more new contributors. Having smaller work and discussion meetings within project teams may help as it can allow for the development of better interpersonal connections within project teams. Having larger team wide meetings may also help as each team providing detailed presentations of their work helps individual team members to see the bigger picture and as such gain a sense of how their work contributes to the bigger picture.
+
+# Risk Matrix
+
+| Risk  | Likelihood | Impact | Mitigation |
+|----------------------|------------|--------|--------------------------------|
+| Loss of Data | Low | Med| Conduct Periodic Backups
+| Loss of leadership due to graduation | High | High | Conduct more Outreach to get more members and ensure the chain of succession is established |
+| Communication Issue | Low | High | Have periodic standups |
+| Budget shortfall | Med | High | Have more frequent budget meetings to discuss expectations|
+| Loss in Morale/Motivation | Med | Med | Host more demo and outreach events to allow more members to see what they are working on|
+
