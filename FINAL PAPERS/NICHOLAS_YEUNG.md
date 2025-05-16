@@ -50,3 +50,12 @@ A big part of this project is a sense of community as it is a large hands-on pro
 | Budget shortfall | Med | High | Have more frequent budget meetings to discuss expectations|
 | Loss in Morale/Motivation | Med | Med | Host more demo and outreach events to allow more members to see what they are working on|
 
+# Conclusion
+Building an EV is a complicated endeavor and to do so with an entirely voluntary group makes this an even more challenging project. However, united by a desire to learn and the need to see our vision brought to fruition, this is definitely an endeavor that some will find worthy. There is still much more to learn and many more challenges to overcome but discovery is part of the fun when it comes to adventure. In the end this project is meant to be an iterative learning experience for all that involves themselves in it, and as EV technology continues to mature so will this project continue to develop both upon its members through their learned experience and through the newer and more advanced iterations of EVs built.
+
+# References
+Cotton, B. (2022). Program management for open source projects: How to guide your community-driven, open source project. The Pragmatic Programmers LLC.
+Github. (2025, May 1). Building welcoming communities. Open Source Guides. Retrieved May 15, 2025, from https://opensource.guide/building-community/
+Mozilla. (n.d.). Working open basics | 'Working open' project guide. 'Working Open' Project Guide · GitHub Pages. https://mozillascience.github.io/open-science-leadership-workshop/
+
+
